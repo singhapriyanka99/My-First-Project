@@ -1,0 +1,25 @@
+Ebody{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+.background-image{
+    width: 100%;
+    height: 600px;
+    background-image: url(cllg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+    height: 44px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+
+}
+.nav-bell i{
+    font-size: 15px;
+
+}
